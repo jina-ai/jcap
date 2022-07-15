@@ -7,13 +7,11 @@ assignees: alexcg1, alt-shreya, GrandeLisaLi, Shubhamsaboo
 
 ---
 
-# Activity Completed
+# Which activity did you complete?
 
-# Proof of Activity Completion
+## Supporting screenshot(s)
 
-## Screenshot
-
-## Link
+## Supporting link(s)
 
 ## What were the challenges you faced while completing this activity?
 
