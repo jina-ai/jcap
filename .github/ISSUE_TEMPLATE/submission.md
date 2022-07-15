@@ -1,21 +1,22 @@
 ---
 name: Submission
-about: 'Template to help you streamline your submissions. Please write after the #
-  heading.'
+about: Template to help you streamline your submissions
 title: "[Submission]"
 labels: ''
-assignees: alexcg1, Shubhamsaboo, alt-shreya, GrandeLisaLi
+assignees: alexcg1, alt-shreya, GrandeLisaLi, Shubhamsaboo
 
 ---
 
 # Activity Completed
 
-## Supporting Screenshots
+# Proof of Activity Completion
 
-## Supporting Links
+## Screenshot
 
-# What were the challenges you faced while completing this activity, if any?
+## Link
 
-# Who helped you navigate these challenges?
+## What were the challenges you faced while completing this activity?
 
-# What did you learn from this activity?
+## Who helped you navigate these challenges?
+
+## What was great about this activity?
