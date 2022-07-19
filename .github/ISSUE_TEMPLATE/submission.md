@@ -7,7 +7,7 @@ assignees: alexcg1, alt-shreya, GrandeLisaLi, Shubhamsaboo
 
 ---
 
-# Which activity did you complete?
+# Which activity did you contribute to?
 
 ## Supporting screenshot(s)
 
