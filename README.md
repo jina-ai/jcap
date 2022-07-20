@@ -6,7 +6,7 @@ Congratulations on being a part of this elite group! This repository is for you 
 * Upload the details as per the template
 
 ![image](https://user-images.githubusercontent.com/70858293/179223459-e1bb4e33-7f81-4e47-8170-e49ca0458c8c.png)
-
+* Write a clear, descriptive issue title as per our [contribution guidelines](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md#-naming-conventions)
 * Preview your issue by clicking on the Preview tab to make sure everything looks okay. Proofreading >>>
 ![image](https://user-images.githubusercontent.com/70858293/179224057-0dc4d810-a2cd-400e-b977-2d02e2bef640.png)
 
