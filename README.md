@@ -3,11 +3,11 @@ Congratulations on being a part of this elite group! This repository is for you 
 
 # What to Submit
 If you 
-- Started a discussion, or answered someone's support query on our Slack community
-- Posted about us to your social network 
-- Wrote a blog about Jina and related topics in collaboration with our team or independently
-- Attended and/or shared your opinion at a Jina-hosted event
-- Organised an online/offline meetup in your local community aimed at bringing more awareness towards Jina
+- started a discussion, or answered someone's support query on our Slack community
+- posted about us to your social network 
+- wrote a blog about Jina and related topics in collaboration with our team or independently
+- attended and/or shared your opinion at a Jina-hosted event
+- organised an online/offline meetup in your local community aimed at bringing more awareness towards Jina
 
 We would love to hear about your experience! Give us all the deets - what went right, what could be improved, who helped you - all by cretaing an issue on this repo!
 
