@@ -14,6 +14,7 @@ We would love to hear about your experience! Give us all the deets - what went r
 # How to Submit an Activity
 * Create an issue using our standard [submission template](https://github.com/jina-ai/jcap/issues/new/choose)
 * Upload the details as per the template
+* assign the label - activity submission
 
 ![image](https://user-images.githubusercontent.com/70858293/179223459-e1bb4e33-7f81-4e47-8170-e49ca0458c8c.png)
 * Write a clear, descriptive issue title as per our [contribution guidelines](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md#-naming-conventions)
